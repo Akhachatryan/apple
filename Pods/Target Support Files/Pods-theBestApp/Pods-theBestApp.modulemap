@@ -1,0 +1,6 @@
+framework module Pods_theBestApp {
+  umbrella header "Pods-theBestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
